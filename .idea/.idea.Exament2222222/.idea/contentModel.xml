@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PC\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\PC\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Exament2222222.1819247638.00" t="ExcludeRecursive" />
+    <e p="C:\Users\PC\Desktop\Trabajos anthony\2020-2\Videojuegos\Examen T2\Exament2222\Exament2222222" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scrips" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="GenZombieController.cs" t="Include" />
+          <e p="KunaiController.cs" t="Include" />
+          <e p="NinjaController.cs" t="Include" />
+          <e p="PuntajeController.cs" t="Include" />
+          <e p="ZombieController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Exament2222222.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
